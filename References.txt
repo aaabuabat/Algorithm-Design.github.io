@@ -1,0 +1,15 @@
+Useful References:
+I really enjoyed reading, watching, and practicing these references.  
+Book:
+1- Introduction to Algorithms- MIT Press
+
+Web Sites:
+2- http://www.geeksforgeeks.org/fundamentals-of-algorithms/
+3- https://stackoverflow.com/questions/tagged/algorithm
+4- https://www.reddit.com/r/programming/
+5- https://www.codechef.com/wiki/tutorials
+
+YouTube Channels:
+6- https://www.youtube.com/c/IDeserve
+7- https://www.youtube.com/user/joejamesusa/
+8- https://www.youtube.com/user/tusharroy2525
