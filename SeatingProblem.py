@@ -1,3 +1,9 @@
+'''
+Suppose that there are n families who want to go out to a restaurant and that the ith family has
+ai members. The restaurant has m tables and the jth table has a seating capacity of bj. Design
+and implement an algorithm that finds a seating arrangement in such a way that no two
+members of the same family are at the same table
+'''
 import numpy as np
 def Seating_Problem(family,table):
 	SittingArrangement = np.array( [[0 for x in range(len(table))] for y in range(len(family))]) 
